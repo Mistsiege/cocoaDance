@@ -10,7 +10,7 @@
 	// Set Default Timezone to EST in PHP
 		if (!(date_default_timezone_set("America/New_York"))) {
 			$error_msg1 = $timestamp.$filename." Failed to connect to set Timezone to EST PHP \n";
-			error_log($error_msg, 3, $root."/cocoa/dbstatic/_error.log");
+			error_log($error_msg, 3, $root."/cocoa/settings/_error.log");
 		} 
 	
 	// Error Logging Information
@@ -28,6 +28,6 @@
 		$mysqli = new mysqli($hostname, $username, $password, $dbname);
 		if ($mysqli->connect_errno) {
 			$error_msg = $timestamp.$filename." Failed to connect to MySQL please contact us with the following error: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error."\n";
-			error_log($error_msg, 3, $root."/cocoa/dbstatic/_error.log");
+			error_log($error_msg, 3, $root."/cocoa/settings/_error.log");
 		}
 ?>
