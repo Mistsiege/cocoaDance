@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/quidplayer/!svn/ver/32/scripts/xpm/EXAMPLES
+END
+mail-local.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mail-local.php
+END
+pop3-read.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/pop3-read.php
+END
+xpertmailer.gif
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/xpertmailer.gif
+END
+mail-relay.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mail-relay.php
+END
+smtp-comm.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/smtp-comm.php
+END
+smtp-relay.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/smtp-relay.php
+END
+mail-client.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mail-client.php
+END
+mime-local.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mime-local.php
+END
+mime-parse.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mime-parse.php
+END
+smtp-client.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/smtp-client.php
+END
+pop3-smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/pop3-smtp.php
+END
+mail-unix.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mail-unix.php
+END
+mime-smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/quidplayer/!svn/ver/22/scripts/xpm/EXAMPLES/mime-smtp.php
+END

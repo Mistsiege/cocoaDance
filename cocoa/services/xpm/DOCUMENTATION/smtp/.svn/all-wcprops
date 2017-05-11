@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/quidplayer/!svn/ver/32/scripts/xpm/DOCUMENTATION/smtp
+END
+rset.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/rset.html
+END
+mxconnect.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/mxconnect.html
+END
+recv.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/recv.html
+END
+auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/auth.html
+END
+quit.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/quit.html
+END
+to.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/to.html
+END
+from.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/from.html
+END
+ehlo.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/ehlo.html
+END
+helo.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/helo.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/index.html
+END
+connect.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/connect.html
+END
+data.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/data.html
+END
+disconnect.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/disconnect.html
+END
+send.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/quidplayer/!svn/ver/22/scripts/xpm/DOCUMENTATION/smtp/send.html
+END
